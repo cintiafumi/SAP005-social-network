@@ -373,3 +373,7 @@ Outras:
   Export](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/export)
 - [Módulos:
   Import](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/import)
+
+### Atualização do Readme
+
+- Teste de PRs
